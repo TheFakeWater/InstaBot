@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+config/
 
 # C extensions
 *.so
@@ -132,3 +133,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/config/secret.txt
+/config/skipped.txt
+/config/unfollowed.txt
+/config/friends.txt
+/config/whitelist.txt
+/config/comments.txt
+/config/blacklist.txt
+/config/followed.txt
