@@ -3,7 +3,7 @@ from instabot import Bot
 bot = Bot()
 bot.login("yourusernamehere", "yourpasswordhere")  # Don't forget to put your password and username !
 
-hashtags = ["starwars", "starwarsfan", "anakinskywalker", "prequels", "originals"]  # Edit your hashtags
+hashtags = ["hashtag1", "hashtag2", "hashtag3", "hashtag4", "hashtag5"]  # Edit your hashtags
 while True:
     # Follow people
     for hashtag in hashtags:
