@@ -139,3 +139,4 @@ dmypy.json
 /config/comments.txt
 /config/blacklist.txt
 /config/followed.txt
+/secretbot.py
