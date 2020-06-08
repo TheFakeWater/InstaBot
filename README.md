@@ -1,2 +1,2 @@
 # InstaBot
-An Simple Instagram bot using InstaPy and Python
+An Simple Instagram bot using the InstaBot library and Python
