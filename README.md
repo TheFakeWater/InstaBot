@@ -20,9 +20,28 @@ An Simple Instagram bot using the InstaBot library and Python
 
     
 
-# Requirements
-You'll need to install Instabot library by using this command:
+## Requirements
+You need to install Instabot library by using this command:
     
     pip install -U instabot
 
+## How to run the bot
 
+---
+### 1. Download the repo by using git clone or download zip
+
+---
+### 2. Edit your login details
+
+
+     `bot.login("<yourusernamehere>", "<yourpasswordhere>")`
+---
+### 3. Don't forget to install instabot otherwise the bot won't work
+
+### 4. Execute the bot.py file
+Congratulations you're done :clap:
+
+
+## Contribute
+
+Feel free to contribute ! :gift:
