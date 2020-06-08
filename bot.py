@@ -3,6 +3,7 @@ from instabot import Bot
 
 bot = Bot()
 bot.login("yourusernamehere", "yourpasswordhere")
+#Check
 
 
 hashtags = ["starwars", "starwarsfan", "anakinskywalker", "prequels", "originals"]  # Edit your hashtags
