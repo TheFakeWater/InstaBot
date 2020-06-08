@@ -13,4 +13,3 @@ while True:
         users = bot.get_hashtag_users(hashtag)
         bot.follow_users(users)
         bot.like_hashtag(hashtag)
-        sleep(1)
