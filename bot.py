@@ -1,10 +1,8 @@
-from time import sleep
-import secrets
+
 from instabot import Bot
 
 bot = Bot()
-bot.login(secrets.Credentials.username, secrets.Credentials.password)  # Make a secret.py file and make a class
-# Credentials then make two strings: username and password
+bot.login("yourusernamehere", "yourpasswordhere")
 
 
 hashtags = ["starwars", "starwarsfan", "anakinskywalker", "prequels", "originals"]  # Edit your hashtags
