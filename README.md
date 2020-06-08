@@ -8,10 +8,7 @@ An Simple Instagram bot using the InstaBot library and Python
     <a href="https://github.com/timgrossmann/InstaPy/blob/master/LICENSE">
       <img src="https://img.shields.io/github/downloads/thefakewater/InstaBot/total" />
     </a>
-    <a href="https://github.com/timgrossmann/InstaPy/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/forks/thefakewater/instabot?style=social" />
-    </a>
-    <a href="https://github.com/timgrossmann/InstaPy/blob/master/LICENSE">
+    <a href="https://github.com/TheFakeWater/InstaBot/issues">
       <img src="https://img.shields.io/github/issues/thefakewater/instabot" />
     </a>
     <a hfref="https://requires.io/github/TheFakeWater/InstaBot/requirements.svg?branch=master">
