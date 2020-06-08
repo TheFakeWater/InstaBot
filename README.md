@@ -23,6 +23,6 @@ An Simple Instagram bot using the InstaBot library and Python
 # Requirements
 You'll need to install Instabot library by using this command:
     
-    `pip install -U instabot`
+    pip install -U instabot
 
 
